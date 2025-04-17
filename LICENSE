@@ -1,80 +1,21 @@
-License Agreement
+MIT License
 
-Last updated on: 04/14/2025
+Copyright (c) 2025 dyskinmel
 
-This License Agreement (“Agreement”) is a binding legal agreement between you (“Licensee”) and AstroRise (“Licensor”). By purchasing, downloading, or using any of our Themes, Components, or Bundles (“Items”), you agree to the terms set forth in this Agreement.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-⸻
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-1. License Grant
-
-AstroRise hereby grants you a non-exclusive, non-transferable, and non-sublicensable license to use the Items in accordance with the terms and conditions of this Agreement.
-• Individual License: Grants access to a single individual. May be used for personal or commercial purposes, including client work, provided the Licensee is not employed by an organization.
-• Team License: Not currently offered. Each individual who uses the Items for development purposes must obtain an Individual License. If you have questions regarding licensing for teams, please contact us.
-
-⸻
-
-2. Permitted Uses
-
-Subject to compliance with this Agreement, the Licensee may:
-• Use the Items to create an unlimited number of End Products for personal, commercial, or client use.
-• Modify, adapt, or combine the Items with other works to create derivative works.
-• Use the Items in commercial SaaS products or web applications, including those for resale or subscription access.
-• Create End Products that are made available free of charge or as open-source software, provided the Items are not redistributed as-is or in a form competing with our theme products.
-
-⸻
-
-3. Prohibited Uses
-
-The Licensee may not:
-• Resell, sublicense, distribute, or make publicly available the Items or any modified versions thereof.
-• Create or distribute any product that competes with AstroRise, including but not limited to themes, UI kits, component libraries, or website/page builders.
-• Use the Items to create tools, templates, or platforms that allow End Users to generate their own End Products.
-• Share access to the Items with individuals or entities not covered under the license.
-• Allow employees, contractors, or clients to use the Items for unrelated projects or side businesses unless separately licensed.
-
-⸻
-
-4. Ownership and Intellectual Property
-
-All rights, title, and interest in and to the Items, including all copyrights and intellectual property rights, remain with AstroRise This Agreement grants only a limited license; it does not transfer any ownership rights.
-
-⸻
-
-5. Attribution
-
-No attribution is required, but it is appreciated. Use of imagery and illustrations included in the themes is for demonstration purposes only. All rights to such assets remain with their respective owners.
-
-⸻
-
-6. Support
-
-Support services are available to customers with an active support agreement. If you are unsure whether you are covered under such an agreement, or if you require additional details, please contact us.
-
-⸻
-
-7. Limitation of Liability
-
-To the maximum extent permitted by law, AstroRise shall not be liable for any indirect, incidental, or consequential damages arising out of or in connection with the use of the Items. Total liability shall be limited to the amount paid by the Licensee for the license.
-
-⸻
-
-8. Termination
-
-This license is effective until terminated. It will terminate automatically without notice if the Licensee breaches any term of this Agreement. Upon termination, the Licensee must cease all use and destroy all copies of the Items.
-
-⸻
-
-9. Governing Law
-
-This Agreement shall be governed by and construed in accordance with the laws of the United States of America. All disputes arising under or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of the United States.
-
-⸻
-
-10. Changes to License
-
-AstroRise reserves the right to update or modify this License Agreement at any time. Material changes will be announced with at least 30 days’ prior notice. Continued use of the Items after changes take effect constitutes acceptance of the updated terms.
-
-⸻
-
-If you have any questions regarding this License or wish to inquire about uses not permitted hereunder, please contact us.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
