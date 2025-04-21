@@ -26,7 +26,7 @@ const { pageContent } = Astro.props as { pageContent: CTAData };
     </Text>
 
     {/* CTA Button */}
-    <Button size="cta" href={pageContent.CTA_link}>
+    <Button variant="primary" size="cta" href={pageContent.CTA_link}>
       {pageContent.CTA_text}
       <svg
         class="shrink-0 size-4"

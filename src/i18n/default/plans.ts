@@ -1,7 +1,8 @@
 export default {
   meta: {
     title: 'Pricing Plans — Find the Right Fit for Your Needs',
-    description: 'Explore AstroRise pricing plans tailored for every stage of growth — from startups to enterprises. Compare features and choose the plan that empowers your next step.',
+    description:
+      'Explore AstroRise pricing plans tailored for every stage of growth — from startups to enterprises. Compare features and choose the plan that empowers your next step.',
     robots: {
       index: true,
       follow: true,
@@ -11,7 +12,7 @@ export default {
   headline: 'Flexible Plans for Every Stage',
   sub_headline: 'Choose the right plan to build, grow, and scale your AstroRise-powered website.',
   pricing_plans: [
-      {
+    {
       title: 'Starter',
       price: '$19',
       frequency: '/month',
@@ -34,7 +35,7 @@ export default {
         'Marketing automations',
       ],
       popular: true,
-      buttonVariant: 'default',
+      buttonVariant: 'primary',
       url: '',
     },
     {
@@ -72,7 +73,7 @@ export default {
     ],
     categories: [
       {
-      name: 'Features',
+        name: 'Features',
         items: [
           {
             name: 'Edge content delivery',
@@ -114,7 +115,7 @@ export default {
         ],
       },
       {
-      name: 'Support',
+        name: 'Support',
         items: [
           {
             name: '24/7 online support',
