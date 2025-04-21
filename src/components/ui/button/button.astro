@@ -8,15 +8,16 @@ export const componentVariants = tv({
   base: 'inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium transition-colors',
   variants: {
     variant: {
-      default: 'bg-primary text-primary-foreground hover:bg-primary/90',
+      default: 'text-foreground',
+      primary: 'bg-primary text-primary-foreground hover:bg-primary/90',
       secondary: 'bg-secondary text-secondary-foreground hover:bg-secondary/80',
       destructive: 'bg-destructive text-destructive-foreground hover:bg-destructive/90',
       outline: 'border-input text-muted-foreground bg-background hover:bg-accent hover:text-accent-foreground border',
       border: 'border-primary text-muted-foreground bg-background hover:bg-accent hover:text-accent-foreground border',
-      select:
-        'text-muted-foreground hover:bg-accent hover:text-accent-foreground [&.selected]:text-primary-foreground [&.selected]:bg-primary',
       ghost:
         'hover:bg-accent text-muted-foreground hover:text-accent-foreground hover:text-foreground [&.selected]:text-foreground [&.selected]:bg-accent',
+      select:
+        'text-muted-foreground hover:bg-accent hover:text-accent-foreground [&.selected]:text-primary-foreground [&.selected]:bg-primary',
       dropdown: 'border border-mute text-foreground hover:bg-muted-foreground/60 focus:outline-hidden shadow-xs',
       none: '',
     },
@@ -33,7 +34,7 @@ export const componentVariants = tv({
     },
   },
   defaultVariants: {
-    variant: 'default',
+    variant: 'primary',
     size: 'default',
   },
 });
